@@ -23,7 +23,7 @@
     * b4: ObjectStream
 	
 3. RMI:
-	-- ![Đề bài RMI](Images/DeBaiRMI.png)
+	* ![Đề bài RMI](Images/DeBaiRMI.png)
  
 ## Continue update.......
 
