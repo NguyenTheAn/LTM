@@ -21,5 +21,10 @@
     * b1: DataStream
     * b2, b3: tương tự b1
     * b4: ObjectStream
+	
+3. RMI:
+![Đề bài RMI](Images/DeBaiRMI.png)
  
 ## Continue update.......
+
+
