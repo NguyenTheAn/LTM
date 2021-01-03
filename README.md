@@ -25,7 +25,7 @@
 3. RMI:
 	* ![Đề bài RMI](Images/DeBaiRMI.png)
 4. WebService
-	* ![Đề bài WebService] (Images/debaiwebservice.png)
+	* ![Đề bài WebService](Images/debaiwebservice.png)
  
 ## Continue update.......
 
