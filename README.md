@@ -1,6 +1,7 @@
 # Source code ôn tập môn lập trình mạng thầy Hùng
 1. TCP:
-Đề bài bài 1, 2, 3: gửi code là mã sinh viên lên server, nhận về một chuỗi gốm 2 số cách nhau bằng dấu phẩy có định dạng a,b, thực hiện tính tổng và gửi kết quả lên server
+Đề bài bài 1: gửi code là msv;1 lên server, nhận về một chuỗi thực hiện đảo ngược chuỗi đó và gửi kết quả trả về cho server
+Đề bài bài 2, 3: gửi code là mã sinh viên lên server, nhận về một chuỗi gốm 2 số cách nhau bằng dấu phẩy có định dạng a,b, thực hiện tính tổng và gửi kết quả lên server
     * b1: DataStream 
     * b2: CharacterStream
     * b3: ByteStream
